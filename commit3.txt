@@ -2,6 +2,5 @@ commit3
 Change e-mail to test@asus.com
 Change e-mail to andrew_lin@asus.com
 Change e-mail to test@asus.com
-Change e-mail to andrew.lin.9142@gmail.com 
+Change e-mail to andrew.lin.9142@gmail.com.tw
 test git pull
-test git pull-2
